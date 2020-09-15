@@ -1,0 +1,77 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\HP\\source\\repos\\VisitCaseS22B3\\InputOuputHandler.Tests\\InputOuputHandler.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\HP\\source\\repos\\VisitCaseS22B3\\InputOuputHandler.Tests\\InputOuputHandler.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\VisitCaseS22B3\\InputOuputHandler.Tests\\InputOuputHandler.Tests.csproj",
+        "projectName": "InputOuputHandler.Tests",
+        "projectPath": "C:\\Users\\HP\\source\\repos\\VisitCaseS22B3\\InputOuputHandler.Tests\\InputOuputHandler.Tests.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\source\\repos\\VisitCaseS22B3\\InputOuputHandler.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\HP\\source\\repos\\VisitCaseS22B3\\InputOutputHandler\\InputOutputHandler.csproj": {
+                "projectPath": "C:\\Users\\HP\\source\\repos\\VisitCaseS22B3\\InputOutputHandler\\InputOutputHandler.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\HP\\source\\repos\\VisitCaseS22B3\\InputOutputHandler\\InputOutputHandler.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\VisitCaseS22B3\\InputOutputHandler\\InputOutputHandler.csproj",
+        "projectName": "InputOutputHandler",
+        "projectPath": "C:\\Users\\HP\\source\\repos\\VisitCaseS22B3\\InputOutputHandler\\InputOutputHandler.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

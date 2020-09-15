@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "zh/fx0Fnexp8d5WrcaXjUxAkBovFDfGoqz2INvp6Pv3EUzHNb46BRpce5qDdyMr33FKEw+uq1Q62C/XNa3+/IQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\VisitCaseS22B3\\Receiver.Tests\\Receiver.Tests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.net.test.sdk\\16.5.0\\microsoft.net.test.sdk.16.5.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\xunit\\2.4.0\\xunit.2.4.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\xunit.abstractions\\2.0.2\\xunit.abstractions.2.0.2.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\xunit.analyzers\\0.10.0\\xunit.analyzers.0.10.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\xunit.assert\\2.4.0\\xunit.assert.2.4.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\xunit.core\\2.4.0\\xunit.core.2.4.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\xunit.extensibility.core\\2.4.0\\xunit.extensibility.core.2.4.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\xunit.extensibility.execution\\2.4.0\\xunit.extensibility.execution.2.4.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\xunit.runner.visualstudio\\2.4.0\\xunit.runner.visualstudio.2.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

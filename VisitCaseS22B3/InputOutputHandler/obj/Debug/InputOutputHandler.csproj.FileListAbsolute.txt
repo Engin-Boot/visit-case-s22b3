@@ -1,0 +1,6 @@
+C:\Users\HP\source\repos\VisitCaseS22B3\InputOutputHandler\bin\Debug\InputOutputHandler.dll
+C:\Users\HP\source\repos\VisitCaseS22B3\InputOutputHandler\bin\Debug\InputOutputHandler.pdb
+C:\Users\HP\source\repos\VisitCaseS22B3\InputOutputHandler\obj\Debug\InputOutputHandler.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\VisitCaseS22B3\InputOutputHandler\obj\Debug\InputOutputHandler.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\VisitCaseS22B3\InputOutputHandler\obj\Debug\InputOutputHandler.dll
+C:\Users\HP\source\repos\VisitCaseS22B3\InputOutputHandler\obj\Debug\InputOutputHandler.pdb
