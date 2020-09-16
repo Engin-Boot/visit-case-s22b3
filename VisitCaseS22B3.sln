@@ -8,11 +8,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sender", "VisitCaseS22B3\Se
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Receiver", "VisitCaseS22B3\Receiver\Receiver.csproj", "{B7C116ED-DBA7-4F14-9DDE-BE8734DBC34B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InputOuputHandler.Tests", "InputOuputHandler.Tests\InputOuputHandler.Tests.csproj", "{56D8481D-9E43-44F0-A308-C20F3A8B75AD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InputOuputHandler.Tests", "VisitCaseS22B3\InputOuputHandler.Tests\InputOuputHandler.Tests.csproj", "{56D8481D-9E43-44F0-A308-C20F3A8B75AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sender.Tests", "Sender.Tests\Sender.Tests.csproj", "{4A682CFC-9EFA-4EDC-B195-0C87DFC07B61}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sender.Tests", "VisitCaseS22B3\Sender.Tests\Sender.Tests.csproj", "{4A682CFC-9EFA-4EDC-B195-0C87DFC07B61}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Receiver.Tests", "Receiver.Tests\Receiver.Tests.csproj", "{0253F699-07DD-49BA-8F3A-5593C7740ECA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Receiver.Tests", "VisitCaseS22B3\Receiver.Tests\Receiver.Tests.csproj", "{0253F699-07DD-49BA-8F3A-5593C7740ECA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
