@@ -4,6 +4,16 @@
     "C:\\Users\\HP\\source\\repos\\VisitCaseS22B3\\Sender.Tests\\Sender.Tests.csproj": {}
   },
   "projects": {
+    "C:\\Users\\HP\\source\\repos\\VisitCaseS22B3\\InputOutputHandler\\InputOutputHandler.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\VisitCaseS22B3\\InputOutputHandler\\InputOutputHandler.csproj",
+        "projectName": "InputOutputHandler",
+        "projectPath": "C:\\Users\\HP\\source\\repos\\VisitCaseS22B3\\InputOutputHandler\\InputOutputHandler.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
     "C:\\Users\\HP\\source\\repos\\VisitCaseS22B3\\Sender.Tests\\Sender.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -67,7 +77,16 @@
       "restore": {
         "projectUniqueName": "C:\\Users\\HP\\source\\repos\\VisitCaseS22B3\\Sender\\Sender.csproj",
         "projectName": "Sender",
-        "projectPath": "C:\\Users\\HP\\source\\repos\\VisitCaseS22B3\\Sender\\Sender.csproj"
+        "projectPath": "C:\\Users\\HP\\source\\repos\\VisitCaseS22B3\\Sender\\Sender.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\HP\\source\\repos\\VisitCaseS22B3\\InputOutputHandler\\InputOutputHandler.csproj": {
+                "projectPath": "C:\\Users\\HP\\source\\repos\\VisitCaseS22B3\\InputOutputHandler\\InputOutputHandler.csproj"
+              }
+            }
+          }
+        }
       },
       "frameworks": {
         "net472": {}

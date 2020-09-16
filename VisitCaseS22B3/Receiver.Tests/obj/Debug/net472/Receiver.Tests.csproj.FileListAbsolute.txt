@@ -18,3 +18,5 @@ C:\Users\HP\source\repos\VisitCaseS22B3\Receiver.Tests\obj\Debug\net472\Receiver
 C:\Users\HP\source\repos\VisitCaseS22B3\Receiver.Tests\obj\Debug\net472\Receiver.Tests.csproj.CopyComplete
 C:\Users\HP\source\repos\VisitCaseS22B3\Receiver.Tests\obj\Debug\net472\Receiver.Tests.dll
 C:\Users\HP\source\repos\VisitCaseS22B3\Receiver.Tests\obj\Debug\net472\Receiver.Tests.pdb
+C:\Users\HP\source\repos\VisitCaseS22B3\Receiver.Tests\bin\Debug\net472\InputOutputHandler.dll
+C:\Users\HP\source\repos\VisitCaseS22B3\Receiver.Tests\bin\Debug\net472\InputOutputHandler.pdb

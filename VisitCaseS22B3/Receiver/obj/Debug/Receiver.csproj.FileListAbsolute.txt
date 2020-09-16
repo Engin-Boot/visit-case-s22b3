@@ -5,3 +5,6 @@ C:\Users\HP\source\repos\VisitCaseS22B3\Receiver\obj\Debug\Receiver.csprojAssemb
 C:\Users\HP\source\repos\VisitCaseS22B3\Receiver\obj\Debug\Receiver.csproj.CoreCompileInputs.cache
 C:\Users\HP\source\repos\VisitCaseS22B3\Receiver\obj\Debug\Receiver.exe
 C:\Users\HP\source\repos\VisitCaseS22B3\Receiver\obj\Debug\Receiver.pdb
+C:\Users\HP\source\repos\VisitCaseS22B3\Receiver\bin\Debug\InputOutputHandler.dll
+C:\Users\HP\source\repos\VisitCaseS22B3\Receiver\bin\Debug\InputOutputHandler.pdb
+C:\Users\HP\source\repos\VisitCaseS22B3\Receiver\obj\Debug\Receiver.csproj.CopyComplete

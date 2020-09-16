@@ -108,8 +108,20 @@
           "build/net20/xunit.runner.visualstudio.props": {}
         }
       },
+      "InputOutputHandler/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/InputOutputHandler.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/InputOutputHandler.dll": {}
+        }
+      },
       "Receiver/1.0.0": {
         "type": "project",
+        "dependencies": {
+          "InputOutputHandler": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/Receiver.dll": {}
         },
@@ -346,6 +358,11 @@
         "xunit.runner.visualstudio.2.4.0.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "InputOutputHandler/1.0.0": {
+      "type": "project",
+      "path": "../InputOutputHandler/InputOutputHandler.csproj",
+      "msbuildProject": "../InputOutputHandler/InputOutputHandler.csproj"
     },
     "Receiver/1.0.0": {
       "type": "project",

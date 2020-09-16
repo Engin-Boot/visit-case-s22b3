@@ -18,3 +18,5 @@ C:\Users\HP\source\repos\VisitCaseS22B3\Sender.Tests\obj\Debug\net472\Sender.Tes
 C:\Users\HP\source\repos\VisitCaseS22B3\Sender.Tests\obj\Debug\net472\Sender.Tests.csproj.CopyComplete
 C:\Users\HP\source\repos\VisitCaseS22B3\Sender.Tests\obj\Debug\net472\Sender.Tests.dll
 C:\Users\HP\source\repos\VisitCaseS22B3\Sender.Tests\obj\Debug\net472\Sender.Tests.pdb
+C:\Users\HP\source\repos\VisitCaseS22B3\Sender.Tests\bin\Debug\net472\InputOutputHandler.dll
+C:\Users\HP\source\repos\VisitCaseS22B3\Sender.Tests\bin\Debug\net472\InputOutputHandler.pdb
